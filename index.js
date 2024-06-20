@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TIRED OF EDITING?"];
+const statusMessages = ["Creating stunning visuals 🎨"];
 
 
 let currentIndex = 0;
